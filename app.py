@@ -6,7 +6,7 @@ import pandas as pd
 import torch
 
 st.set_page_config(
-    page_title="Detección de Objetos en Tiempo Real",
+    page_title="Detectar Objetos en Tiempo Real",
     page_icon="🔍",
     layout="wide"
 )
